@@ -9,6 +9,12 @@
     background: linear-gradient(to top, #283E51, #4B79A1); 
 }
 
+.title {
+    font-size: 80px;
+    color: #FFF;
+    animation: flipTitle 1s;
+}
+
 @keyframes flipTitle {
     from {
         transform: rotateX(90deg);
