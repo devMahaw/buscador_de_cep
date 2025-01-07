@@ -33,6 +33,15 @@
     box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
 }
 
+.containerInput input {
+    background-color: transparent;
+    border: 0;
+    font-size: 20px;
+    color: #FFF;
+    outline: none;
+    margin-right: 8px;
+}
+
 .containerInput input::placeholder {
     color: #F1F1F1;
 }
