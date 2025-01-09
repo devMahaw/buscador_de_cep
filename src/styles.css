@@ -46,6 +46,16 @@
     color: #F1F1F1;
 }
 
+.buttonSearch {
+    background-color: transparent;
+    border: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
 .buttonSearch:hover {
     transform: scale(1.2);
 }
