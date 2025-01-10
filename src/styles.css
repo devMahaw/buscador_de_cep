@@ -56,9 +56,6 @@
     transition: transform 0.5s;
 }
 
-.buttonSearch:hover {
-    transform: scale(1.2);
-}
 
 .main {
     display: flex;
