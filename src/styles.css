@@ -75,11 +75,6 @@
     font-size: 40px;
 }
 
-.main span {
-    margin-bottom: 16px;
-    font-weight: bold;
-    font-size: 18px;
-}
 
 @media (max-width: 620px) {
     .title {
